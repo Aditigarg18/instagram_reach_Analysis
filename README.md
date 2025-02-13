@@ -21,6 +21,6 @@ A machine learning-based Instagram reach analysis and prediction project using P
 The model is trained to predict post reach based on engagement features. Evaluation metrics include **R² Score, RMSE, and MAE** for accuracy assessment.
 
 ## 🚀 Future Enhancements
--🔹 **Deep Learning Model** for Improved Accuracy
--🔹 **Dashboard for Real-Time Reach Monitoring**
--🔹 **Integration with Instagram API for Live Data**
+- 🔹 **Deep Learning Model for Improved Accuracy**
+- 🔹 **Dashboard for Real-Time Reach Monitoring**
+- 🔹 **Integration with Instagram API for Live Data**
