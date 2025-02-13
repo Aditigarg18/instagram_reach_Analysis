@@ -15,7 +15,7 @@ A machine learning-based Instagram reach analysis and prediction project using P
 - 🔹 **Pandas, NumPy** Data Processing
 - 🔹 **Matplotlib, Seaborn, Plotly** Data Visualization
 - 🔹 **Scikit-Learn** Machine Learning
-- 🔹 **NLTK, WordCloud** Text Processing
+- 🔹 **WordCloud** Text Processing
 
 ## 📈 Model Performance
 The model is trained to predict post reach based on engagement features. Evaluation metrics include **R² Score, RMSE, and MAE** for accuracy assessment.
